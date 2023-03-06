@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "I'm Fullstack Developer Dowon Lee",
-      "description": "👋 I'm Lee Dowon. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 😎",
+      "description": "When I think that I need new technology to work on a project, I can achieve good results based on my strengths, quick understanding and application. In addition, we are trying to make better results through communication with team members and make code that is easy for everyone to recognize with clean code.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -81,37 +81,60 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Azwell",
+        "title": "Fullstack Developer",
+        "years": "03.2021 - 03.2023",
         "mainTech": [
-          "Angular 8/9/10"
+          "egovframework"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
+          "Spring",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "MariaDB",
+          "LDAP",
+          "WebRTC",
+          "SpringBoot",
+          "JSP",
+          "JAVA",
+          "CSS",
+          "HTML5",
+          "react",
+          "vue.js",
+          "Node.js"
         ]
       },
       {
-        "company": "Serros Solutions",
+        "company": "TownNet",
         "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "years": "12.2020 - 02.2021",
         "mainTech": [
-          "Angular 7/8"
+          "WAS"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "HTML 5",
+          "JSP",
+          "MySQL",
           "JavaScript",
-          "DHTMLX Gantt"
+          "CSS",
+          "JAVA"
+        ]
+      },
+      {
+        "company": "Daejeon Univ.",
+        "title": "Graduated from the Department of Information Security",
+        "years": "03.2016 - 02.2022",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "HTML 5",
+          "JSP",
+          "MySQL",
+          "JavaScript",
+          "CSS",
+          "JAVA",
+          "Android Studio"
         ]
       }
     ]

@@ -1,12 +1,12 @@
 {
     "basic_info": {
       "description_header": "풀스택 개발자 이도원입니다.",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description": "프로젝트를 임하는 데 있어 새로운 기술등이 필요하다고 판단될 때, 저의 장점인 빠른 이해력과 응용력을 바탕으로 좋은 성과를 낼 수 있습니다. 뿐만 아니라 팀원들과의 소통을 통해 더 좋은 결과물을 만들고, 클린코드로 모두가 알아보기 쉬운 코드를 만들기 위해 노력하고 있습니다.",
       "section_name": {
         "about": "About Me",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "experience"
       }
     },
     "projects": [
@@ -81,35 +81,60 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "에즈웰",
+        "title": "Fullstack Developer",
+        "years": "03.2021 - 03.2023",
         "mainTech": [
-          "Angular 8/9/10"
+          "egovframework"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
+          "Spring",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "MariaDB",
+          "LDAP",
+          "WebRTC",
+          "SpringBoot",
+          "JSP",
+          "JAVA",
+          "CSS",
+          "HTML5",
+          "react",
+          "vue.js",
+          "Node.js"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "타운넷",
+        "title": "단기 인턴",
+        "years": "12.2020 - 02.2021",
         "mainTech": [
-          "Angular 7/8"
+          "WAS"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
+          "HTML 5",
+          "JSP",
+          "MySQL",
           "JavaScript",
-          "DHTMLX Gantt"
+          "CSS",
+          "JAVA"
+        ]
+      },
+      {
+        "company": "대전대학교",
+        "title": "정보보안학과 졸업",
+        "years": "03.2016 - 02.2022",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "HTML 5",
+          "JSP",
+          "MySQL",
+          "JavaScript",
+          "CSS",
+          "JAVA",
+          "Android Studio"
         ]
       }
     ]
