@@ -112,6 +112,11 @@
           "name": "Tomcat",
           "class": "devicon-tomcat-line",
           "level": "100"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "100"
         }
       ]
     }
