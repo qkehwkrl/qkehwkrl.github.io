@@ -44,6 +44,11 @@
           "level": "100"
         },
         {
+          "name": "jquery",
+          "class": "devicon-jquery-plain",
+          "level": "100"
+        },
+        {
           "name": "React",
           "class": "devicon-react-original",
           "level": "100"
