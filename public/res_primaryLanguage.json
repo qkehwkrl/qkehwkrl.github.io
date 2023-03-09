@@ -11,6 +11,33 @@
     },
     "projects": [
       {
+        "title": "Prediction of fine dust",
+        "startDate": "2023-01",
+        "description": "Project for predicting fine dust using AI",
+        "images": [
+          "images/portfolio/Prediction_of_Fine_Dust/p1.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-npm-original-wordmark",
+            "name": "npm"
+          }
+        ]
+      },
+      {
         "title": "Baron Fit",
         "startDate": "2022-08",
         "description": "A project to correct the posture of exercise using sensors.",
@@ -24,52 +51,273 @@
             "name": "Spring"
           },
           {
+            "class": "devicon-java-plain",
+            "name": "JAVA"
+          },
+          {
             "class": "devicon-mysql-plain",
             "name": "MySql"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "B-CAP",
+        "startDate": "2022-08",
+        "description": "Development environment provision service for autonomous driving data utilization in cooperation with Korea University and Sejong TP",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/B-CAP/p1.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://sos.re.kr/",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-spring-plain",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "JAVA"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-vuejs-plain",
+            "name": "Vue.js"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           },
           {
             "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jquery"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "ETRI Technical Experience Service",
+        "startDate": "2022-06",
+        "description": "ETRI provides services that allow other people to experience VOP for free.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/ETRI/p1.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://nanum.etri.re.kr/skill",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-spring-plain",
+            "name": "Spring"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-java-plain",
+            "name": "JAVA"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jquery"
+          }
+        ]
+      },
+      {
+        "title": "CCTV",
+        "startDate": "2021-09",
+        "description": "A service to control CCTV on the web using CCTV and obtain accurate coordinate data for fire dispatch.",
+        "images": [
+          "images/portfolio/CCTV/p1.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-spring-plain",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "JAVA"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jquery"
+          }
+        ]
+      },
+      {
+        "title": "WithBaRon",
+        "startDate": "2022-01",
+        "description": "VOP's commercialization project is a smart office platform through VDI.",
+        "images": [
+          "images/portfolio/WithBaRon/p1.jpg",
+          "images/portfolio/WithBaRon/p2.jpg",
+          "images/portfolio/WithBaRon/p3.jpg"
+        ],
+        "url": "https://withbaron.azwellsys.com/brokerUserLoginView.do",
+        "technologies": [
+          {
+            "class": "devicon-spring-plain",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "JAVA"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jquery"
+          }
+        ]
+      },
+      {
+        "title": "Daejeon Univ. Air Quality Sensing",
+        "startDate": "2021-07",
+        "description": "Provides API servers for data collection for Daejeon University's Air Quality Sensing Project, which measures the skin condition of users and the air condition of users' residences.",
+        "images": [
+          "images/portfolio/Daejeon Univ/p1.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-spring-plain",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "JAVA"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          }
+        ]
+      },
+      {
+        "title": "VOP",
+        "startDate": "2021-03",
+        "description": "As a VDI platform, it is a smart office national project.",
+        "images": [
+          "images/portfolio/VOP/p1.jpg",
+          "images/portfolio/VOP/p2.jpg",
+          "images/portfolio/VOP/p3.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-spring-plain",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "JAVA"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jquery"
+          }
+        ]
+      },
+      {
+        "title": "Ministry of Food and Drug Safety's administrative disposition app",
+        "startDate": "2021-03",
+        "description": "A service in the form of a native app that displays the results of administrative dispositions such as food law violations on Google Maps using Google Maps and public data from the Ministry of Food and Drug Safety.",
+        "images": [
+          "images/portfolio/android/p1.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-androidstudio-plain",
+            "name": "Androoid Studio"
           }
         ]
       }
@@ -96,7 +344,8 @@
           "HTML5",
           "react",
           "vue.js",
-          "Node.js"
+          "Node.js",
+          "kafka"
         ]
       },
       {

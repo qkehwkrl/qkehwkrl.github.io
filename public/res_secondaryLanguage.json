@@ -11,6 +11,33 @@
     },
     "projects": [
       {
+        "title": "미세먼지 예측",
+        "startDate": "2023-01",
+        "description": "AI를 이용한 미세먼지 예측 프로젝트",
+        "images": [
+          "images/portfolio/Prediction_of_Fine_Dust/p1.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-npm-original-wordmark",
+            "name": "npm"
+          }
+        ]
+      },
+      {
         "title": "Baron Fit",
         "startDate": "2022-08",
         "description": "센서를 활용한 운동 자세 교정 프로젝트",
@@ -24,52 +51,273 @@
             "name": "Spring"
           },
           {
+            "class": "devicon-java-plain",
+            "name": "JAVA"
+          },
+          {
             "class": "devicon-mysql-plain",
             "name": "MySql"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "B-CAP",
+        "startDate": "2022-08",
+        "description": "고려대학교, 세종TP와 협력한 자율주행 데이터 활용을 위한 개발 환경 제공 서비스",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/B-CAP/p1.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://sos.re.kr/",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-spring-plain",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "JAVA"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-vuejs-plain",
+            "name": "Vue.js"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           },
           {
             "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jquery"
+          }
+        ]
+      },
+       {
+        "title": "ETRI 기술체험 서비스",
+        "startDate": "2022-06",
+        "description": "VOP를 다른 사람들에게 무료로 체험할 수 있도록 ETRI에서 제공하는 서비스",
+        "images": [
+          "images/portfolio/ETRI/p1.jpg"
+        ],
+        "url": "https://nanum.etri.re.kr/skill",
+        "technologies": [
+          {
+            "class": "devicon-spring-plain",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "JAVA"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jquery"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "WithBaRon",
+        "startDate": "2022-01",
+        "description": "VOP의 사업화 프로젝트로 VDI를 통한 스마트 오피스 플랫폼이다.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/WithBaRon/p1.jpg",
+          "images/portfolio/WithBaRon/p2.jpg",
+          "images/portfolio/WithBaRon/p3.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://withbaron.azwellsys.com/brokerUserLoginView.do",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-spring-plain",
+            "name": "Spring"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-java-plain",
+            "name": "JAVA"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jquery"
+          }
+        ]
+      },
+      {
+        "title": "CCTV",
+        "startDate": "2021-09",
+        "description": "CCTV를 활용해 웹에서 CCTV를 제어하고, 화재 출동을 위한 정확한 좌표 데이터를 얻어내기 위한 서비스",
+        "images": [
+          "images/portfolio/CCTV/p1.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-spring-plain",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "JAVA"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jquery"
+          }
+        ]
+      },
+      {
+        "title": "대전대 공기질 센싱",
+        "startDate": "2021-07",
+        "description": "사용자의 피부 상태 측정 및 사용자 거주지의 공기 상태를 측정하는 대전대학교 공기질 센싱 프로젝트를 위한 데이터 수집을 위한 API 서버 제공 ",
+        "images": [
+          "images/portfolio/Daejeon Univ/p1.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-spring-plain",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "JAVA"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          }
+        ]
+      },
+      {
+        "title": "VOP",
+        "startDate": "2021-03",
+        "description": "VDI 플랫폼으로, 스마트 오피스 국책 과제 프로젝트이다.",
+        "images": [
+          "images/portfolio/VOP/p1.jpg",
+          "images/portfolio/VOP/p2.jpg",
+          "images/portfolio/VOP/p3.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-spring-plain",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "JAVA"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jquery"
+          }
+        ]
+      },
+      {
+        "title": "식약처 행정처분 앱",
+        "startDate": "2021-03",
+        "description": "구글맵, 식약처 공공데이터를 활용하여 식품법 위반 위생 상태 등의 행정 처분 결과를 구글맵에 표시해주는 네이티브앱 형태의 서비스",
+        "images": [
+          "images/portfolio/android/p1.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-androidstudio-plain",
+            "name": "Androoid Studio"
           }
         ]
       }
@@ -96,7 +344,8 @@
           "HTML5",
           "react",
           "vue.js",
-          "Node.js"
+          "Node.js",
+          "kafka"
         ]
       },
       {
