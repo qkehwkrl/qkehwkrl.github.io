@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "I'm Fullstack Developer Dowon Lee",
+      "description": "When I think that I need new technology to work on a project, I can achieve good results based on my strengths, quick understanding and application. In addition, we are trying to make better results through communication with team members and make code that is easy for everyone to recognize with clean code.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,107 +11,372 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Prediction of fine dust",
+        "startDate": "2023-01",
+        "description": "Project for predicting fine dust using AI",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/Prediction_of_Fine_Dust/p1.jpg"
         ],
         "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
         "technologies": [
           {
             "class": "devicon-react-original",
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-npm-original-wordmark",
+            "name": "npm"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Baron Fit",
+        "startDate": "2022-08",
+        "description": "A project to correct the posture of exercise using sensors.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/baron_fit/p1.jpg"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-spring-plain",
+            "name": "Spring"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-java-plain",
+            "name": "JAVA"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          }
+        ]
+      },
+      {
+        "title": "B-CAP",
+        "startDate": "2022-08",
+        "description": "Development environment provision service for autonomous driving data utilization in cooperation with Korea University and Sejong TP",
+        "images": [
+          "images/portfolio/B-CAP/p1.jpg"
+        ],
+        "url": "https://sos.re.kr/",
+        "technologies": [
+          {
+            "class": "devicon-spring-plain",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "JAVA"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-vuejs-plain",
+            "name": "Vue.js"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jquery"
+          }
+        ]
+      },
+      {
+        "title": "ETRI Technical Experience Service",
+        "startDate": "2022-06",
+        "description": "ETRI provides services that allow other people to experience VOP for free.",
+        "images": [
+          "images/portfolio/ETRI/p1.jpg"
+        ],
+        "url": "https://nanum.etri.re.kr/skill",
+        "technologies": [
+          {
+            "class": "devicon-spring-plain",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "JAVA"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jquery"
+          }
+        ]
+      },
+      {
+        "title": "CCTV",
+        "startDate": "2021-09",
+        "description": "A service to control CCTV on the web using CCTV and obtain accurate coordinate data for fire dispatch.",
+        "images": [
+          "images/portfolio/CCTV/p1.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-spring-plain",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "JAVA"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jquery"
+          }
+        ]
+      },
+      {
+        "title": "WithBaRon",
+        "startDate": "2022-01",
+        "description": "VOP's commercialization project is a smart office platform through VDI.",
+        "images": [
+          "images/portfolio/WithBaRon/p1.jpg",
+          "images/portfolio/WithBaRon/p2.jpg"
+        ],
+        "url": "https://withbaron.azwellsys.com/brokerUserLoginView.do",
+        "technologies": [
+          {
+            "class": "devicon-spring-plain",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "JAVA"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jquery"
+          }
+        ]
+      },
+      {
+        "title": "Daejeon Univ. Air Quality Sensing",
+        "startDate": "2021-07",
+        "description": "Provides API servers for data collection for Daejeon University's Air Quality Sensing Project, which measures the skin condition of users and the air condition of users' residences.",
+        "images": [
+          "images/portfolio/Daejeon Univ/p1.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-spring-plain",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "JAVA"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          }
+        ]
+      },
+      {
+        "title": "VOP",
+        "startDate": "2021-03",
+        "description": "As a VDI platform, it is a smart office national project.",
+        "images": [
+          "images/portfolio/VOP/p1.jpg",
+          "images/portfolio/VOP/p3.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-spring-plain",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "JAVA"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jquery"
+          }
+        ]
+      },
+      {
+        "title": "Ministry of Food and Drug Safety's administrative disposition app",
+        "startDate": "2021-03",
+        "description": "A service in the form of a native app that displays the results of administrative dispositions such as food law violations on Google Maps using Google Maps and public data from the Ministry of Food and Drug Safety.",
+        "images": [
+          "images/portfolio/android/p1.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-androidstudio-plain",
+            "name": "Androoid Studio"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Azwell",
+        "title": "Fullstack Developer",
+        "years": "03.2021 - 03.2023",
         "mainTech": [
-          "Angular 8/9/10"
+          "egovframework"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
+          "Spring",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "MariaDB",
+          "LDAP",
+          "WebRTC",
+          "SpringBoot",
+          "JSP",
+          "JAVA",
+          "CSS",
+          "HTML5",
+          "react",
+          "vue.js",
+          "Node.js",
+          "kafka"
         ]
       },
       {
-        "company": "Serros Solutions",
+        "company": "TownNet",
         "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "years": "12.2020 - 02.2021",
         "mainTech": [
-          "Angular 7/8"
+          "WAS"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "HTML 5",
+          "JSP",
+          "MySQL",
           "JavaScript",
-          "DHTMLX Gantt"
+          "CSS",
+          "JAVA"
+        ]
+      },
+      {
+        "company": "Daejeon Univ.",
+        "title": "Graduated from the Department of Information Security",
+        "years": "03.2016 - 02.2022",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "HTML 5",
+          "JSP",
+          "MySQL",
+          "JavaScript",
+          "CSS",
+          "JAVA",
+          "Android Studio"
         ]
       }
     ]
