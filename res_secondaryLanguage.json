@@ -322,8 +322,40 @@
     ],
     "experience": [
       {
+        "company": "이데아인포",
+        "title": "풀스택 개발자",
+        "years": "12.2023 - 08.2023",
+        "mainTech": [
+          "egovframework"
+        ],
+        "technologies": [
+          "Nexacro",
+          "Spring",
+          "JavaScript",
+          "OracleDB",
+          "JAVA",
+          "MariaDB",
+          "RedHat"
+        ]
+      },
+      {
+        "company": "HG",
+        "title": "풀스택 개발자",
+        "years": "04.2023 - 06.2023",
+        "mainTech": [
+          "egovframework"
+        ],
+        "technologies": [
+          "Nexacro",
+          "Spring",
+          "JavaScript",
+          "OracleDB",
+          "JAVA"
+        ]
+      },
+      {
         "company": "에즈웰",
-        "title": "Fullstack Developer",
+        "title": "풀스택 개발자",
         "years": "03.2021 - 03.2023",
         "mainTech": [
           "egovframework"
@@ -343,7 +375,8 @@
           "react",
           "vue.js",
           "Node.js",
-          "kafka"
+          "kafka",
+          "CentOS7.9"
         ]
       },
       {

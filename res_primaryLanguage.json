@@ -322,6 +322,38 @@
     ],
     "experience": [
       {
+        "company": "IDEAINFO",
+        "title": "Fullstack Developer",
+        "years": "12.2023 - 08.2023",
+        "mainTech": [
+          "egovframework"
+        ],
+        "technologies": [
+          "Nexacro",
+          "Spring",
+          "JavaScript",
+          "OracleDB",
+          "JAVA",
+          "MariaDB",
+          "RedHat"
+        ]
+      },
+      {
+        "company": "HG",
+        "title": "Fullstack Developer",
+        "years": "04.2023 - 06.2023",
+        "mainTech": [
+          "egovframework"
+        ],
+        "technologies": [
+          "Nexacro",
+          "Spring",
+          "JavaScript",
+          "OracleDB",
+          "JAVA"
+        ]
+      },
+      {
         "company": "Azwell",
         "title": "Fullstack Developer",
         "years": "03.2021 - 03.2023",
