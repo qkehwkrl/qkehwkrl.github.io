@@ -156,8 +156,7 @@
         "description": "VOP의 사업화 프로젝트로 VDI를 통한 스마트 오피스 플랫폼이다.",
         "images": [
           "images/portfolio/WithBaRon/p1.jpg",
-          "images/portfolio/WithBaRon/p2.jpg",
-          "images/portfolio/WithBaRon/p3.jpg"
+          "images/portfolio/WithBaRon/p2.jpg"
         ],
         "url": "https://withbaron.azwellsys.com/brokerUserLoginView.do",
         "technologies": [
@@ -267,7 +266,6 @@
         "description": "VDI 플랫폼으로, 스마트 오피스 국책 과제 프로젝트이다.",
         "images": [
           "images/portfolio/VOP/p1.jpg",
-          "images/portfolio/VOP/p2.jpg",
           "images/portfolio/VOP/p3.jpg"
         ],
         "url": "",

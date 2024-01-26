@@ -199,8 +199,7 @@
         "description": "VOP's commercialization project is a smart office platform through VDI.",
         "images": [
           "images/portfolio/WithBaRon/p1.jpg",
-          "images/portfolio/WithBaRon/p2.jpg",
-          "images/portfolio/WithBaRon/p3.jpg"
+          "images/portfolio/WithBaRon/p2.jpg"
         ],
         "url": "https://withbaron.azwellsys.com/brokerUserLoginView.do",
         "technologies": [
@@ -267,7 +266,6 @@
         "description": "As a VDI platform, it is a smart office national project.",
         "images": [
           "images/portfolio/VOP/p1.jpg",
-          "images/portfolio/VOP/p2.jpg",
           "images/portfolio/VOP/p3.jpg"
         ],
         "url": "",
